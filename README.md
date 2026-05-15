@@ -4,6 +4,10 @@ An SSR React Router + TypeScript generative typography project. Bitmask Atelier 
 
 The project is framed as a portfolio case study: the home route is the live interaction, while the supporting pages explain the design decisions, rendering strategy, and maintainable code boundaries.
 
+## Inspiration
+
+This project draws visual inspiration from the [Tensora homepage](https://www.tensora.com/), especially its expressive technical atmosphere and interactive editorial feel. Bitmask Atelier is an independent implementation and is not affiliated with Tensora.
+
 ## Highlights
 
 - React Router Framework Mode with SSR.
