@@ -37,3 +37,19 @@ npm run start
 ```
 
 The development server runs at `http://localhost:5173`.
+
+## Docker
+
+Build the production image:
+
+```bash
+docker build -t bitmask-atelier .
+```
+
+Run the container:
+
+```bash
+docker run --rm -p 3000:3000 bitmask-atelier
+```
+
+Open `http://localhost:3000`. The container uses the React Router production server and listens on port `3000`.
