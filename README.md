@@ -6,7 +6,7 @@ The project is framed as a portfolio case study: the home route is the live inte
 
 ## Inspiration
 
-This project draws visual inspiration from the [Tensora homepage](https://www.tensora.com/), especially its expressive technical atmosphere and interactive editorial feel. Bitmask Atelier is an independent implementation and is not affiliated with Tensora.
+This project draws inspiration from the binary text treatment on the [Tensora homepage](https://www.tensora.com/), where Tao appears through a field of binary characters. Bitmask Atelier is an independent implementation and is not affiliated with Tensora.
 
 ## Highlights
 
