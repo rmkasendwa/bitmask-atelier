@@ -46,10 +46,16 @@ Build the production image:
 docker build -t bitmask-atelier .
 ```
 
-Run the container:
+Run the container directly:
 
 ```bash
 docker run --rm -p 3000:3000 bitmask-atelier
+```
+
+Or use Compose:
+
+```bash
+docker compose up --build
 ```
 
 Open `http://localhost:3000`. The container uses the React Router production server and listens on port `3000`.
